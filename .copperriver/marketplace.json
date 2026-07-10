@@ -1,0 +1,64 @@
+{
+  "plugins": [
+    {
+      "name": "code-reviewer",
+      "description": "Meticulous reviewer that runs tests, checks edge cases, and blocks bad code from shipping.",
+      "category": "development",
+      "source": "./code-reviewer"
+    },
+    {
+      "name": "debugger",
+      "description": "Systematic investigator that traces bugs from symptom to root cause using evidence, not guesses.",
+      "category": "development",
+      "source": "./debugger"
+    },
+    {
+      "name": "refactorer",
+      "description": "Safe refactoring specialist that improves code structure without changing behavior, backed by tests.",
+      "category": "development",
+      "source": "./refactorer"
+    },
+    {
+      "name": "test-writer",
+      "description": "Pragmatic test author that writes meaningful tests covering edge cases, not just happy paths.",
+      "category": "development",
+      "source": "./test-writer"
+    },
+    {
+      "name": "security-auditor",
+      "description": "Security-focused reviewer that checks for OWASP Top 10, dependency vulnerabilities, and misconfigurations.",
+      "category": "security",
+      "source": "./security-auditor"
+    },
+    {
+      "name": "researcher",
+      "description": "Thorough investigator that cross-references multiple sources and delivers structured findings with citations.",
+      "category": "research",
+      "source": "./researcher"
+    },
+    {
+      "name": "data-analyst",
+      "description": "Analytical agent that explores datasets, finds patterns, and produces clear visualizations and insights.",
+      "category": "data",
+      "source": "./data-analyst"
+    },
+    {
+      "name": "tech-writer",
+      "description": "Documentation specialist that writes clear, accurate docs by reading the actual code.",
+      "category": "writing",
+      "source": "./tech-writer"
+    },
+    {
+      "name": "devops",
+      "description": "Infrastructure operator that manages deployments, diagnoses server issues, and automates operational tasks.",
+      "category": "operations",
+      "source": "./devops"
+    },
+    {
+      "name": "planner",
+      "description": "Strategic planner that breaks down complex projects into actionable tasks with clear dependencies and priorities.",
+      "category": "planning",
+      "source": "./planner"
+    }
+  ]
+}
